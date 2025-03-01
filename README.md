@@ -1,3 +1,4 @@
+<div align="center"> <img src="https://github.com/Vanshika3118/Vanshika3118/blob/main/github-header-image.png"> </div>
 <h1 align="center">Hi 👋, I'm Vanshika</h1>
 <h3 align="center">Passionate Web Developer | Crafting Interactive Web Experiences</h3>
 
