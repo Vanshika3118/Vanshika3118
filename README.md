@@ -1,5 +1,4 @@
 <div align="center"> <img src="https://github.com/Vanshika3118/Vanshika3118/blob/main/github-header-image.png"> </div>
-<h1 align="center">Hi 👋, I'm Vanshika</h1>
 <h3 align="center">Passionate Web Developer | Crafting Interactive Web Experiences</h3>
 
 <p align="center">
@@ -7,11 +6,9 @@
 </p>
 
 
----
-
-- 🔭 I’m currently working on **Web Development and AI projects**  
+- 🔭 I’m currently working on **Web Development**  
 - 🌱 I’m currently learning **DSA and Full Stack Development**  
-- 👨‍💻 Explore my projects: [GitHub Profile](https://github.com/Vanshika1455)  
+- 👨‍💻 Explore my projects: [GitHub Profile](https://github.com/Vanshika3118)  
 - 📫 Reach me at: **anejavanshika17@gmail.com**  
 
 ---
