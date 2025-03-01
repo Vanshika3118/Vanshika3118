@@ -1,6 +1,6 @@
 <div align="center"> <img src="https://github.com/Vanshika3118/Vanshika3118/blob/main/github-header-image.png"> </div>
 <h3 align="center">Passionate Web Developer | Crafting Interactive Web Experiences</h3>
- <img align="right" alt="Girl" height="150" src="https://i.imgflip.com/65efzo.gif" />
+ <img align="right" alt="Girl" height="145" src="https://i.imgflip.com/65efzo.gif" />
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Vanshika1455&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
