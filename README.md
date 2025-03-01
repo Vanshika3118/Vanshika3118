@@ -5,12 +5,17 @@
   <img src="https://komarev.com/ghpvc/?username=Vanshika1455&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-
-- 🔭 I’m currently working on **Web Development**  
-- 🌱 I’m currently learning **DSA and Full Stack Development**  
-- 👨‍💻 Explore my projects: [GitHub Profile](https://github.com/Vanshika3118)  
-- 📫 Reach me at: **anejavanshika17@gmail.com**  
-
+<div style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
+  <div style="text-align: center;">
+    - 🔭 I’m currently working on <strong>Web Development</strong>  <br>
+    - 🌱 I’m currently learning <strong>DSA and Full Stack Development</strong>  <br>
+    - 👨‍💻 Explore my projects: <a href="https://github.com/Vanshika3118">GitHub Profile</a>  <br>
+    - 📫 Reach me at: <strong>anejavanshika17@gmail.com</strong>
+  </div>
+  <div>
+    <img height="200" src="https://i.imgflip.com/65efzo.gif" />
+  </div>
+</div>
 ---
 
 <h3 align="center">Connect with Me</h3>
@@ -47,4 +52,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vanshika3118&show_icons=true&locale=en" alt="vanshika3118" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vanshika3118&" alt="vanshika3118" /></p>
+
+
 
